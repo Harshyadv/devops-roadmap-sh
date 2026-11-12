@@ -1,5 +1,5 @@
 # devops-roadmap-sh
-Hands-on practice repo for the [roadmap.sh DevOps roadmap](https://roadmap.sh/projects/server-stats).
+Hands-on practice repo for the [DevOps roadmap](https://roadmap.sh/devops) on roadmap.sh website.
 
 ## Goal
 Learn by doing: break things, fix them, write down what I learned.
@@ -9,6 +9,6 @@ My Redmi Note 10 Pro coz my laptop screen along with it's frame and bezel gave u
 
 ## Screenshots 
 here're the screenshots of my script's output
-|server-stats|
+|[server-stats](https://roadmap.sh/projects/server-stats)|
 |:---:|
 ![server-stats.sh](screenshots/server-stats.png)
