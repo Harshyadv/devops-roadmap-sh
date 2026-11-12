@@ -1,5 +1,5 @@
 # devops-roadmap-sh
-Hands-on practice repo for the [roadmap.sh DevOps roadmap](https://roadmap.sh/devops).
+Hands-on practice repo for the [roadmap.sh DevOps roadmap](https://roadmap.sh/projects/server-stats).
 
 ## Goal
 Learn by doing: break things, fix them, write down what I learned.
