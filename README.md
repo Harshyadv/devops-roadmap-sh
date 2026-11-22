@@ -2,7 +2,7 @@
 Hands-on practice repo for the [DevOps roadmap](https://roadmap.sh/devops) on roadmap.sh website.
 
 ## Goal
-Learn by doing: break things, fix them, write down what I learned.
+Learn by doing: break things, fix them.
 
 ## Current Device 
 My Redmi Note 10 Pro coz my laptop screen along with it's frame and bezel gave up and I'm broke and unemployed 🥲 thanks to **termux** btw to keep me going. (⁠•⁠‿⁠•⁠)
