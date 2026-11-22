@@ -18,4 +18,4 @@ here're the screenshots of my script's output
 
 |[log-archive-tool](https://roadmap.sh/projects/log-archive-tool)|
 |:---:|
-![log-archive-tool.sh](screenshots/log-archive.png)
+![log-archive-tool.sh](screenshots/log-archive-tool.png)

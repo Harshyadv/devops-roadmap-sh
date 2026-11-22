@@ -12,7 +12,7 @@ ARCHIVE_DIR="./archives"
 mkdir -p "$ARCHIVE_DIR"
 
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
-ARCHIVE_NAME="logs_archive_${TIMESTAMP}.tar.gz"
+ARCHIVE_NAME="logs_archive_tool_${TIMESTAMP}.tar.gz"
 ARCHIVE_PATH="${ARCHIVE_DIR}/${ARCHIVE_NAME}"
 
 # -c: create archive
